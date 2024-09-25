@@ -7,7 +7,7 @@ pizzas (Base and Deluxe Pizza), add extra toppings and cheese, and opt for takea
 
 ## Features
 
-- **Pizza Types**: Choose between Veg and Non-Veg pizzas.
+- **Pizza Types**: Choose between Base and Deluxe Pizzas.
 - **Customization**: Add extra cheese and toppings.
 - **Takeaway Option**: Select takeaway service for an additional charge.
 - **Bill Generation**: View a detailed bill summarizing the costs.
