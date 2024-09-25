@@ -17,6 +17,6 @@ pizzas (Veg and Non-Veg), add extra toppings and cheese, and opt for takeaway se
 Java Development Kit (JDK) installed on your machine.
 
 ## Future Enhancements
-Implement the DeluxPizza class for additional features.
-Add more customization options (like size or crust type).
-Implement a graphical user interface (GUI) for better user experience.
+**Implement the DeluxPizza class for additional features.**
+**Add more customization options (like size or crust type).**
+**Implement a graphical user interface (GUI) for better user experience.**
