@@ -18,10 +18,10 @@ pizzas (Veg and Non-Veg), add extra toppings and cheese, and opt for takeaway se
     ├── Pizza.java       // Class representing the pizza and its properties
     └── DeluxPizza.java  // Class representing a deluxe version of the pizza (not shown in provided code)
 
-##Requirements
+## Requirements
 Java Development Kit (JDK) installed on your machine.
 
-##Future Enhancements
+## Future Enhancements
 Implement the DeluxPizza class for additional features.
 Add more customization options (like size or crust type).
 Implement a graphical user interface (GUI) for better user experience.
