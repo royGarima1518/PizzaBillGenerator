@@ -3,7 +3,7 @@
 ## Overview
 
 This project implements a simple pizza bill Generator in Java. It allows users to create different types of 
-pizzas (Veg and Non-Veg), add extra toppings and cheese, and opt for takeaway service. The final bill is generated based on the selections made.
+pizzas (Base and Deluxe Pizza), add extra toppings and cheese, and opt for takeaway service. The final bill is generated based on the selections made.
 
 ## Features
 
