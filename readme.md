@@ -1,4 +1,4 @@
-# Pizza Billing System
+# Pizza Bill Generator
 
 ## Overview
 
