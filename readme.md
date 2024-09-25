@@ -12,7 +12,7 @@ pizzas (Veg and Non-Veg), add extra toppings and cheese, and opt for takeaway se
 - **Takeaway Option**: Select takeaway service for an additional charge.
 - **Bill Generation**: View a detailed bill summarizing the costs.
 
-## OOP Features
+## OOPs Features
 
 - **Encapsulation**: Attributes like price and type are private, accessed through public methods.
 - **Inheritance**: The `Pizza` class serves as a base for `DeluxPizza`, promoting code reuse.
